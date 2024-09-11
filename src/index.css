@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 160px;
+}
+ul {
+  list-style: none;
+}
+.avatar {
+  border-radius: 50%;
+  border: 1px solid black;
+  margin: 1.5rem 0;
+}
+.card {
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 1.5rem;
+  background-color: aquamarine;
+}
+.details {
+  background-color: blanchedalmond;
+}
+.details h2,
+p {
+  text-align: center;
+}
+/*
+.flexitem {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+} */
