@@ -1,4 +1,4 @@
 const SkillsList = () => {
-  return <div>SkillsList</div>;
+  return <div className="skill-list">SkillsList</div>;
 };
 export default SkillsList;

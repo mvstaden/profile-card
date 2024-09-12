@@ -12,22 +12,22 @@ const Details = () => {
       <div className="socials">
         <ul className="flexitem">
           <li>
-            <a href="">
+            <a href="#">
               <FaInstagram />
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="#">
               <FaFacebookF />
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="#">
               <FaXTwitter />
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="#">
               <FaLinkedinIn />
             </a>
           </li>

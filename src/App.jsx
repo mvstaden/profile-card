@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="card">
       <Avatar />
-
-      <Details />
+      <div className="data">
+        <Details />
+      </div>
     </div>
   );
 }
