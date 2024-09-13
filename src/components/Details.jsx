@@ -2,7 +2,7 @@ import { FaInstagram, FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 const Details = () => {
   return (
-    <div className="details">
+    <div>
       <h2>Marius van Staden</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio sint
